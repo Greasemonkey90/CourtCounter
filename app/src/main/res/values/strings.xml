@@ -1,0 +1,11 @@
+<resources>
+    <string name="app_name">Keeping track of football</string>
+    <string name ="team1">Panthers</string>
+    <string name= "team2">Cowboys</string>
+    <string name = "score">0</string>
+    <string name ="touchdown"> Touchdown</string>
+    <string name="field">Field Goal</string>
+    <string name = "extra">Extra Point</string>
+    <string name = "reset">Reset</string>
+    <string name = "twoPoints">Touchback/2 points</string>
+</resources>
