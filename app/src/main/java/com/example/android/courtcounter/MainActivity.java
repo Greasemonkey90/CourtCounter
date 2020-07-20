@@ -20,7 +20,7 @@ public class MainActivity extends AppCompatActivity {
      * Increase the score for Team 1 by 6 point.
      */
     public void addSixForTeam1(View v) {
-        scoreTeam1 += 6;
+        scoreTeam1 += 5;
         displayForTeam1(scoreTeam1);
     }
 
